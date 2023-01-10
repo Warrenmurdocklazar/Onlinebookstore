@@ -19,9 +19,10 @@ ii)To install the project run the Ebookstore.py file in the same directory as th
 
 iii)Below are some screenshots showing you how the program looks when it's running!
 
+![evidence1](https://user-images.githubusercontent.com/121958151/211462181-7508043c-93a6-463b-a49d-3d1092fef34b.png)
+![evidence2](https://user-images.githubusercontent.com/121958151/211462123-7fde7025-e574-4590-a1eb-ee5d5ba5950b.png)
+![eevidence3](https://user-images.githubusercontent.com/121958151/211462138-83ac0581-dac4-4d85-aa55-4da4cad9da38.png)
+![evidence4](https://user-images.githubusercontent.com/121958151/211462157-9314007f-ce54-416c-9859-2e886cf56761.png)
 
-![evidence 1](https://user-images.githubusercontent.com/121958151/211329600-dcbf39e7-5482-450c-9c6f-7a907b9b2f79.jpg)
-![EVIDENCE 2](https://user-images.githubusercontent.com/121958151/211329604-431cbb59-2544-4fe9-a401-b38166bef81f.jpg)
-![evidence 3](https://user-images.githubusercontent.com/121958151/211329610-62e58f4a-a16c-4745-bd66-206ae84b6831.png)
 
 iv) All code created by me Warren Murdock-Lazar
