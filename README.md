@@ -8,7 +8,7 @@ iii)Usage
 iv)Credits
 
 
-i)Using Python & SQL I have created a program that allows a Bookstore Clerk to:
+i)Using Python & SQL I created a program that allows a Bookstore Clerk to manage their online bookstore. This program allows the admin to:
 
     Add new books to the database
     Update books information
