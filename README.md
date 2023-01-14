@@ -10,13 +10,10 @@ iv)Credits
 
 i)Using Python & SQL this project was created to allow a Bookstore Clerk to manage their online bookstore, functions of the program include:
 
-Add new books to the database
-
-Update a books information (id, Title,Author,Quantity)
-
-Delete a book from the database
-
-Search the database for a specific book
+    Add new books to the database
+    Update a books information (id, Title,Author,Quantity)
+    Delete a book from the database
+    Search the database for a specific book
     
 ii)To install the project run the Ebookstore.py file in the same directory as the ebookstore.db file
 
